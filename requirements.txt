@@ -1,0 +1,11 @@
+# Framework principal de l'interface
+streamlit==1.41.0
+
+# Enregistrement audio et transcription via le navigateur
+streamlit-mic-recorder==0.0.20
+
+# Client pour l'IA Llama (Groq)
+groq==0.11.0
+
+# Gestion des données et utilitaires
+requests==2.32.3
