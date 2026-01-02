@@ -8,4 +8,4 @@ streamlit-mic-recorder==0.0.20
 groq==0.11.0
 
 # Gestion des données et utilitaires
-requests==2.32.3
+requests==2.32.4
